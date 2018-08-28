@@ -11,10 +11,8 @@ git clone https://github.com/joudot/CosmosDB-EmulatorTesting-VSTS
 2.	Navigate into the project and push it to VSTS
 ```
 cd CosmosDB-EmulatorTesting-VSTS/
-```
-```
+
 git remote set-url origin https://<YOUR_VSTS_TENANT>.visualstudio.com/<YOUR_PROJECT>/_git/<YOUR_REPOSITORY>
-```
-```
+
 git push -u origin --all
 ```
