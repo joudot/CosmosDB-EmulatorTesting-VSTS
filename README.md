@@ -1,5 +1,5 @@
 # Introduction 
-This repository contains a sample ASP.NET Core Web API project as well as a Test project. The purpose of this solution is to demonstrate the ability to test an ASP.NET Core application relying on a Cosmos DB back end using the emulator in a VSTS environment.  
+This repository contains a sample ASP.NET Core Web API project as well as a Test project. The purpose of this solution is to demonstrate the ability to test an ASP.NET Core application relying on a Cosmos DB back-end, using the emulator in a VSTS Build CI/CD pipeline.  
 
 # Getting Started
 Here are the step to reuse this sample to build a Build pipeline to test this ASP.NET Core Web API.
