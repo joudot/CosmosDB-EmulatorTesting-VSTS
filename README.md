@@ -8,7 +8,7 @@ Here are the step to reuse this sample to build a Build pipeline to test this AS
 ```
 git clone https://github.com/joudot/CosmosDB-EmulatorTesting-VSTS
 ```
-2.	Naviguate into the project and push it to VSTS
+2.	Navigate into the project and push it to VSTS
 ```
 cd CosmosDB-EmulatorTesting-VSTS/
 ```
